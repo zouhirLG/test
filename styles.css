@@ -193,7 +193,7 @@ header nav ul li a:hover {
 
 /* Hero Section */
 .hero {
-  background: url('images/hero-bg.jpg') no-repeat center center/cover;
+  background: url('image/hero-bg.jpg') no-repeat center center/cover;
   font-family: 'noto sans', sans-serif;
   color: #f7f7f7;
   text-align: left;
